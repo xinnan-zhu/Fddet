@@ -1,0 +1,7 @@
+boundary_max_pooling_cuda.cpp
+boundary_max_pooling_kernel.cu
+setup.py
+AFSD.egg-info/PKG-INFO
+AFSD.egg-info/SOURCES.txt
+AFSD.egg-info/dependency_links.txt
+AFSD.egg-info/top_level.txt

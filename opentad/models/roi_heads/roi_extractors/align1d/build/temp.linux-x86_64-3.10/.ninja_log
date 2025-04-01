@@ -1,0 +1,5 @@
+# ninja log v5
+3	15315	1733745208880031032	/root/shared-nvme/zyc/OpenTAD/OpenTAD/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda.o	d656c53ebcb87fbf
+4	73575	1733745267118863901	/root/shared-nvme/zyc/OpenTAD/OpenTAD/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda_kernal.o	e6439a18175891c9
+3	14945	1743418543809919562	/root/shared-nvme/OpenTAD/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda.o	6bf2cded416f095d
+4	68750	1743418597604991168	/root/shared-nvme/OpenTAD/opentad/models/roi_heads/roi_extractors/align1d/build/temp.linux-x86_64-3.10/Align1D_cuda_kernal.o	1f989a3149d756c4

@@ -1,0 +1,5 @@
+# ninja log v5
+0	15330	1733745285134499817	/root/shared-nvme/zyc/OpenTAD/OpenTAD/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_cuda.o	6c5d39a93b99f4b
+1	69825	1733745339489393332	/root/shared-nvme/zyc/OpenTAD/OpenTAD/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_kernel.o	774e522ae71c09ce
+7	14205	1743418614356705070	/root/shared-nvme/OpenTAD/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_cuda.o	c6e1e239951b01df
+7	65506	1743418665643837338	/root/shared-nvme/OpenTAD/opentad/models/roi_heads/roi_extractors/boundary_pooling/build/temp.linux-x86_64-3.10/boundary_max_pooling_kernel.o	2d2ea48059539c39
