@@ -1,0 +1,17 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.so
+.vscode/
+env/
+venv/
+ENV/
+*.egg-info/
+*.log
+*.tmp
+checkpoints/
+outputs/
+exps/
+*.pth
+*.pt
